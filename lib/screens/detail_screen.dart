@@ -83,7 +83,7 @@ class DetailScreen extends StatelessWidget {
                 const SizedBox(
                   width: 70,
                   child: Text(
-                    'Lokasi Candi',
+                    'Lokasi Candi adalah',
                     style: TextStyle(fontWeight: FontWeight.bold),
                   ),
                 ),
